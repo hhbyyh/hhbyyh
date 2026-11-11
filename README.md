@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
+
 # Hi, I'm Yuhao Yang 👋
 
-I'm passionate about **AI/ML modeling and training**, with 12+ years of experience in developing large-scale search, recommendation, and ranking models.
+I'm an **AI/ML engineer focused on model training and post-training**, with hands-on experience in **LLM fine-tuning, reinforcement learning (GRPO), reward design, and generative ranking**.
 
 ### 🌟 Open Source Contributions
 
@@ -25,12 +26,12 @@ I'm passionate about **AI/ML modeling and training**, with 12+ years of experien
 - **BigDL Co-founder & Contributor** — Co-founded BigDL, an open-source distributed deep learning framework, and co-authored its research paper at ACM SoCC 2019. [Research Paper](https://arxiv.org/abs/1804.05839) · [GitHub](https://github.com/intel-analytics/BigDL)
 - **Ray Contributor** — Contributed to the Ray open-source ecosystem. [Official Release Notes](https://github.com/ray-project/ray/releases/tag/ray-0.8.0)
 
+### 🔬 Research & Engineering Interests
 
-### 🔬 Areas of Interest
+- **LLM Training & Post-training:** SFT, RLHF, GRPO, reward modeling
+- **Reinforcement Learning:** Policy optimization, reward design, model alignment
+- **Generative Ranking:** LLM-based ranking, multi-objective optimization
+- **AI Evaluation:** LLM-as-a-Judge, model quality assessment, evaluation-driven training
 
-My current focus is on **LLM post-training, reinforcement learning, generative ranking, and AI evaluation**, with a strong interest in advancing model capabilities through better training algorithms, reward design, and evaluation.
 
-### 🔗 Links
-
-- [GitHub](https://github.com/hhbyyh)
 
