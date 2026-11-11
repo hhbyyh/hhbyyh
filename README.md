@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Yuhao Yang 👋
 
-I'm an AI/ML engineer focused on model training and post-training, with hands-on experience in LLM fine-tuning, reinforcement learning (GRPO), reward design, and generative ranking.
+I'm an AI/ML engineer focused on model training and post-training, with hands-on experience in LLM training, reinforcement learning (GRPO), reward design, and generative ranking.
 
 ### 🌟 Open Source Contributions
 
