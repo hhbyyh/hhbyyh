@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-# Hi, I'm Yuhao Yang 👋
-
 I'm an AI/ML engineer specializing in **LLM post-training, reinforcement learning, reward optimization, AI evaluation, and generative ranking**, with a focus on advancing model capabilities and performance.
 
 ### 🌟 Open Source Contributions
